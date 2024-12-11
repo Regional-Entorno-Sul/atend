@@ -6,7 +6,7 @@ Identifica notificações de atendimento antirrábico humano sem data de encerra
 2. Descompactar o arquivo;
 
 ![x](folder3.jpg)  
-4. Mover a pasta resultante da descompactação do arquivo (atend), para o disco local C ou unidade local C;  
+3. Mover a pasta resultante da descompactação do arquivo (atend), para o disco local C ou unidade local C;  
   
 ![x](folder1.jpg)  
 4. Colocar o arquivo de exportação de notificações individuais (nindinet.dbf) e o arquivo de exportação de atendimento antirrábico humano (antranet.dbf) na subpasta "base";
