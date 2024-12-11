@@ -2,8 +2,10 @@
 Identifica notificações de atendimento antirrábico humano sem data de encerramento e que não estejam habilitadas para o fluxo de retorno.
 
 ## Como usar?
-1. Fazer o download do arquivo "atend.zip" na área de releases (sempre usar o release mais atualizado);  
-2. Descompactar o arquivo;
+1. Fazer o download do arquivo "atend.zip" na área de releases (sempre usar o release mais atualizado);
+
+![x](release.jpg)  
+3. Descompactar o arquivo;
 
 ![x](folder3.jpg)  
 3. Mover a pasta resultante da descompactação do arquivo (atend), para o disco local C ou unidade local C;  
