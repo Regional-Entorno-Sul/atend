@@ -5,7 +5,7 @@ Identifica notificações de atendimento antirrábico humano sem data de encerra
 1. Fazer o download do arquivo "atend.zip" na área de releases (sempre usar o release mais atualizado);
 
 ![x](release.jpg)  
-3. Descompactar o arquivo;
+2. Descompactar o arquivo utilizando o seu descompactador preferido (WinZip, WinRAR, 7Zip, etc);  
 
 ![x](folder3.jpg)  
 3. Mover a pasta resultante da descompactação do arquivo (atend), para o disco local C ou unidade local C;  
