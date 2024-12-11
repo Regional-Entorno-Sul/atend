@@ -20,3 +20,5 @@ Identifica notificações de atendimento antirrábico humano sem data de encerra
 6. O resultado do processamento estará no arquivo "atend.dbf" dentro da subpasta "run".  
 
 ![x](/pictures/folder4.jpg)  
+
+![x](/pictures/libre_office_file.jpg)  
