@@ -8,6 +8,7 @@ Identifica notificações de atendimento antirrabico humano sem data de encerram
   
 ![x](folder1.jpg)  
 4. Colocar o arquivo de exportação de notificações individuais (nindinet.dbf) e o arquivo de exportação de atendimento antirrábico humano (antranet.dbf) na subpasta "base";
+  
 ![x](folder2.jpg)  
 5. Rodar o arquivo "atend.exe";
 6. O resultado do processamento estará no arquivo "atend.dbf" dentro da subpasta "run".
