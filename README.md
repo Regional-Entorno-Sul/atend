@@ -2,9 +2,9 @@
 Identifica notificações de atendimento antirrabico humano sem data de encerramento e que não estejam habilitadas para o fluxo de retorno.
 
 ## Como usar?
-1.Fazer o download do arquivo "atend.zip" na área de releases (sempre usar o mais atualizado);  
-2.Descompactar o arquivo;  
-Mover a pasta resultante da descompactação do arquivo (atend), na unidade C ou disco local C;
+1. Fazer o download do arquivo "atend.zip" na área de releases (sempre usar o mais atualizado);  
+2. Descompactar o arquivo;  
+3. Mover a pasta resultante da descompactação do arquivo (atend), na unidade C ou disco local C;  
 ![x](folder1.jpg)
 Colocar o arquivo de exportação de notificações individuais (nindinet.dbf) e o arquivo de exportação de atendimento antirrábico humano (antranet.dbf) na subpasta "base";
 x 5. Rodar o arquivo "atend.exe";
