@@ -15,4 +15,6 @@ Identifica notificações de atendimento antirrábico humano sem data de encerra
 5. Rodar o arquivo "atend.exe";  
 
 ![x](cmd1.jpg)  
-6. O resultado do processamento estará no arquivo "atend.dbf" dentro da subpasta "run".
+6. O resultado do processamento estará no arquivo "atend.dbf" dentro da subpasta "run".  
+
+![x](folder4.jpg)  
